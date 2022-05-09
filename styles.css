@@ -1,0 +1,61 @@
+h1 {
+    color: rgb(145, 34, 0);
+    text-align: center;
+} 
+
+ul {
+border: 5px dashed;
+
+text-align: center;
+list-style: none;
+padding-left: 0%;
+width: 50%;
+margin: auto;
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 50%;
+}
+
+.pic3 {
+
+}
+
+img {
+margin: auto;
+}
+
+.pic1 {
+margin-left: 50%;
+}
+
+.Facts {
+    margin: auto;
+    }
+
+body {
+    background-color: rgba(44, 30, 30, 0.692);
+}
+
+p {
+    text-shadow: rgb(255, 255, 255);
+    color: rgb(180, 0, 0);
+}
+.link {
+    color: transparent;
+}
+.pg1 {
+
+    margin-left: 50%;
+    block-size: auto;
+
+}
+.p {
+    font-size: 20pt;
+}
